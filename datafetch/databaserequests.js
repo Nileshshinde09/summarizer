@@ -1,4 +1,4 @@
-const HOSTNAME='http://127.0.0.1:5000';
+const HOSTNAME='https://summarizer-backend-8evi.onrender.com';
 const BASEURL='http://localhost:3000'
 export const getSummerize = async(data) => {
     
